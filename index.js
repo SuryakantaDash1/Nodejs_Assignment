@@ -5,7 +5,6 @@ import dotenv from 'dotenv';
 import route from './routes/userRoute.js';
 
 
-
 const app = express();
 
 
